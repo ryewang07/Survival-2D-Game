@@ -1,6 +1,7 @@
 # Survival-2D-Game
 A basic survival game using OOP and JFrame. 
 
+Run FinalGame Batch file to run
 
 Fixes:
 
